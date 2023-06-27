@@ -8,7 +8,7 @@ I did a script with Jupyter Notebook, which creates whole data model. In general
 - Extracting data from tranfermarkt.com using webscrapper,
 - Transforming and normalize data process,
 - Creating fact tables and lookup tables,
-- Saving data to .csv file, (if you run script again, then data will append to the same .csv file)
+- Saving data to .csv file (if you run script again, then data will append to the same .csv file)
 
 Also I finished data modeling process with Power Query.
 
