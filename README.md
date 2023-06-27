@@ -2,6 +2,7 @@
 Automatization process of creating whole data model and reporting.
 
 All you have to do is copy/paset to script an URL from transfermarkt.com league profile.
+You can compare data of thousands leagues from around the world.
 
 I did a script with Jupyter Notebook, which creates whole data model. In general the process looks like:
 - Extracting data from tranfermarkt.com using webscrapper,
