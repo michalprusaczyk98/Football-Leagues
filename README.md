@@ -6,7 +6,7 @@ You can compare data of thousands leagues from around the world.
 
 I did a script with Jupyter Notebook, which creates whole data model. In general the process looks like:
 - Extracting data from tranfermarkt.com using webscrapper,
-- Transforming data process,
+- Transforming and normalize data process,
 - Creating fact tables and lookup tables,
 - Saving data to .csv file, (if you run script again, then data will append to the same .csv file)
 
