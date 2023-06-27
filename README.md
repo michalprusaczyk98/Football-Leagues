@@ -1,8 +1,8 @@
 # Football Leagues
 ## Automatization process of creating whole data model and reporting.
 ## [Example of interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTliMDE3NDEtYWMyNy00NTEwLTk2ZjEtNTkzMjE0ZGE5YTE4IiwidCI6ImFjYjdlMzMyLWFjMTctNDA5ZC04OWZiLWE2MTQxNjEyNGM0YSIsImMiOjl9)
-## [Creating Data Model Script](https://github.com/michalprusaczyk98/Football-Leagues/blob/main/Football_Leagues_Players.ipynb)
-## [Creatind Data Model Script #2](https://github.com/michalprusaczyk98/Football-Leagues/blob/main/Football_Leagues_Stats.ipynb)
+### [Creating Data Model Script](https://github.com/michalprusaczyk98/Football-Leagues/blob/main/Football_Leagues_Players.ipynb)
+### [Creating Data Model Script #2](https://github.com/michalprusaczyk98/Football-Leagues/blob/main/Football_Leagues_Stats.ipynb)
 
 All you have to do is copy/paste to script an URL from transfermarkt.com league profile.
 You can compare data of thousands leagues from around the world.
