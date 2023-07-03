@@ -4,7 +4,7 @@
 ### [Creating Data Model Script](https://github.com/michalprusaczyk98/Football-Leagues/blob/main/Football_Leagues_Players.ipynb)
 ### [Creating Data Model Script #2](https://github.com/michalprusaczyk98/Football-Leagues/blob/main/Football_Leagues_Stats.ipynb)
 
-All you have to do is copy/paste to script an URL from transfermarkt.com league profile.
+All you have to do is copy/paste an URL from transfermarkt.com league profile to script.
 You can compare data of thousands leagues from around the world.
 
 I did a script with Jupyter Notebook, which creates whole data model. In general the process looks like:
